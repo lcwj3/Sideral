@@ -13,7 +13,7 @@
     "@turf/center": "^6.0.1",
     "Leaflet.Geodesic": "git+https://git@github.com/henrythasler/Leaflet.Geodesic.git",
     "animate.css": "~3.6",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "bootstrap-sass": "~3.3",
     "bootstrap3": "~3.3",
     "cookieconsent": "^3.1.0",
